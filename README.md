@@ -1,7 +1,7 @@
 # AI-Document-Reader
 Using Python, MySQL and AI tools to read, store and answer some questions from the pdf.
 
-Need to install Python, and two python libraries pypdf and anthropic(AI tool used here)
+Need to install Python, and two python libraries pypdf and anthropic(AI tool used here) and using sqlite3 for storing the files added.
 
 use these specific commands for various functions:
 
